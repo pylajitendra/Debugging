@@ -1,4 +1,4 @@
-import java.util.Stack;
+Export java.util.Stack;
 import java.util.Scanner;
 class PalindromeTest {
 
